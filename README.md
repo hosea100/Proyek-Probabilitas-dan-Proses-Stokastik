@@ -5,5 +5,5 @@ Saya menemukan sebuah project milik <a href="https://pkghosh.wordpress.com/2015/
 ## Markov Chain
 Menurut website <a href="https://brilliant.org/wiki/markov-chains/">brilliant</a>  "A Markov chain is a mathematical system that experiences transitions from one state to another according to certain probabilistic rules."
 Markov chain dapat dimodelkan dengan menggunakan <a href="https://brilliant.org/wiki/finite-state-machines/">finite state machine</a> ![fsm](https://ds055uzetaobb.cloudfront.net/brioche/uploads/Y41lL91zbg-bigger-markov-chain.png?width=1200)
-![hasilconfusionmatrix](https://ibb.co/F0PNpv7)
+## Hasil secara singkat
 <a href="https://ibb.co/F0PNpv7"><img src="https://i.ibb.co/YyrYg9j/confusion-matrix.png" alt="confusion-matrix" border="0"></a>
