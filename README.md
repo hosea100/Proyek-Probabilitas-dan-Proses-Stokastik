@@ -10,3 +10,6 @@ Markov chain dapat dimodelkan dengan menggunakan <a href="https://brilliant.org/
 
 ## Grafik untuk actual Stock Market
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/KXmzdV9/grafik-actual.png" alt="grafik-actual" border="0"></a>
+
+## Infografis
+<a href="https://ibb.co/3pknqzb"><img src="https://i.ibb.co/Byw9xNJ/infografis.png" alt="infografis" border="0"></a>
